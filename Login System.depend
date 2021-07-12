@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1626026079 source:d:\c++ projects\login system\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<string>
+	<conio.h>
+
